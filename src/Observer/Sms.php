@@ -1,5 +1,5 @@
 <?php
-
+namespace Taoran\DesignPatterns\Observer;
 /**
  * 观察者： sms
  */

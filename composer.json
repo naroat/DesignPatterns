@@ -1,0 +1,19 @@
+{
+    "name": "taoran/design-patterns",
+    "description": "设计模式示例(php)",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Taoran\\DesignPatterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "taoran",
+            "email": "taoran0796@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}

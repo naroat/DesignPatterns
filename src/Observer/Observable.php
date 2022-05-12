@@ -1,4 +1,5 @@
 <?php
+namespace Taoran\DesignPatterns\Observer;
 
 /**
  * 被观察者接口

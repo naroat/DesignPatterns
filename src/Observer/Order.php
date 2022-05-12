@@ -1,5 +1,5 @@
 <?php
-
+namespace Taoran\DesignPatterns\Observer;
 /**
  * 被观察者： 订单
  */

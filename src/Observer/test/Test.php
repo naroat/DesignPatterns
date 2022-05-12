@@ -1,10 +1,8 @@
 <?php
+
+namespace Taoran\DesignPatterns\Observer;
 ini_set('display_errors', 'on');
-require 'Observable.php';
-require 'Observer.php';
-require 'Order.php';
-require 'Email.php';
-require 'Sms.php';
+require '../../../vendor/autoload.php';
 
 $order = new Order();
 $email = new Email();
