@@ -10,9 +10,11 @@
 - [原型模式](./src/Prototype)
 
 ## 结构型设计模式
-- [观察者模式](./src/Observer)
 - [门面模式](./src/Facade)
+- [适配器模式](./src/Adapter)
+- [桥接模式](./src/Bridge)
 
 ## 行为型设计模式
+- [观察者模式](./src/Observer)
 
 - 持续增加...
