@@ -18,7 +18,7 @@
 
 ## 实例代码，内有注释
 
-
+https://github.com/taoran1401/DesignPatterns/tree/master/Observer
 
 ## 参考
 
