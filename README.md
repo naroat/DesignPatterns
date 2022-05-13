@@ -13,6 +13,7 @@
 - [门面模式](./src/Facade)
 - [适配器模式](./src/Adapter)
 - [桥接模式](./src/Bridge)
+- [组合模式(未完成)](./src/Composite)
 
 ## 行为型设计模式
 - [观察者模式](./src/Observer)
