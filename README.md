@@ -13,7 +13,7 @@
 - [门面模式](./src/Facade)
 - [适配器模式](./src/Adapter)
 - [桥接模式](./src/Bridge)
-- [组合模式(未完成)](./src/Composite)
+- [组合模式](./src/Composite)
 - [代理模式](./src/Proxy)
 - [享元模式](./src/Flyweight)
 - [装饰器模式](./src/Decorator)
