@@ -31,9 +31,3 @@
 缺点：
 
 使得设计更加复杂。客户端需要花更多时间理清类之间的层次关系。
-
-## 参考
-
-> https://www.cnblogs.com/woods1815/p/12822057.html
-> https://designpatternsphp.readthedocs.io/zh_CN/latest/Structural/Composite/README.html
-> https://www.ziruchu.com/art/89
